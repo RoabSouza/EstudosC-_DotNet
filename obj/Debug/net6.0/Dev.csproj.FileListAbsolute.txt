@@ -1,0 +1,15 @@
+C:\Users\roabs\Desktop\Dev\bin\Debug\net6.0\Dev.exe
+C:\Users\roabs\Desktop\Dev\bin\Debug\net6.0\Dev.deps.json
+C:\Users\roabs\Desktop\Dev\bin\Debug\net6.0\Dev.runtimeconfig.json
+C:\Users\roabs\Desktop\Dev\bin\Debug\net6.0\Dev.dll
+C:\Users\roabs\Desktop\Dev\bin\Debug\net6.0\Dev.pdb
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.csproj.AssemblyReference.cache
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.AssemblyInfoInputs.cache
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.AssemblyInfo.cs
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.csproj.CoreCompileInputs.cache
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.dll
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\refint\Dev.dll
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.pdb
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\Dev.genruntimeconfig.cache
+C:\Users\roabs\Desktop\Dev\obj\Debug\net6.0\ref\Dev.dll
